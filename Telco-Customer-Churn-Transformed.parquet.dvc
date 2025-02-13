@@ -1,0 +1,5 @@
+outs:
+- md5: 517970614d7666162c0e1afcfbc1bbcc
+  size: 278487
+  hash: md5
+  path: Telco-Customer-Churn-Transformed.parquet

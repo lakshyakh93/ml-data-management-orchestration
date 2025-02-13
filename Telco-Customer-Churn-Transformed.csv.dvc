@@ -1,0 +1,5 @@
+outs:
+- md5: 3e13bf028570531e072a17542b987da3
+  size: 1178575
+  hash: md5
+  path: Telco-Customer-Churn-Transformed.csv
